@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ethical hacking and making games 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : instagram: hyunjinieeee123
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm a huge fan of Stray Kids and love creating content for my SKZ fansite!
 
 <!---
 HackerMx/HackerMx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
